@@ -10129,50 +10129,48 @@ html[xmlns] .slides {
   /* line 11, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
   #main-nav .navbar-brand {
     display: inline-block;
+    line-height: 54px;
     font-size: 24px;
     font-weight: 700;
     color: #fff;
-    text-transform: uppercase; }
-    /* line 17, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+    text-transform: uppercase;
+    padding-top: 0; }
+    /* line 19, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
     #main-nav .navbar-brand img {
       margin-right: 15px;
       max-width: 60px; }
-  /* line 22, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+  /* line 24, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
   #main-nav.scrolled {
     background: #fff;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.2); }
-    /* line 25, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+    /* line 27, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
     #main-nav.scrolled .navbar-brand {
-      color: #6d6d6d; }
-    /* line 28, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+      color: #32cd32; }
+    /* line 30, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
     #main-nav.scrolled .navbar-toggle {
       color: #74c7d5;
       border-color: #74c7d5; }
-      /* line 31, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+      /* line 33, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
       #main-nav.scrolled .navbar-toggle .icon-bar {
         background: #74c7d5; }
-    /* line 35, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+    /* line 37, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
     #main-nav.scrolled .container {
       padding: 10px 20px; }
-    /* line 39, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+    /* line 41, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
     #main-nav.scrolled .nav a {
       color: #6d6d6d; }
-      /* line 41, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
-      #main-nav.scrolled .nav a:active {
-        color: #6d6d6d; }
-      /* line 44, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+      /* line 43, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
       #main-nav.scrolled .nav a:hover {
-        color: #6d6d6d;
-        color: #f28c83; }
-    /* line 49, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+        color: #32cd32; }
+    /* line 47, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
     #main-nav.scrolled .nav li.active a {
-      color: #f28c83; }
-  /* line 54, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+      color: #32cd32; }
+  /* line 52, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
   #main-nav li {
     background: transparent;
     margin: 0 10px;
     border: 2px solid transparent; }
-  /* line 59, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+  /* line 57, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
   #main-nav .nav a {
     padding: 0 10px;
     font-size: 18px;
@@ -10182,26 +10180,26 @@ html[xmlns] .slides {
     color: #fff;
     transition: color .2s ease-in; }
 
-/* line 70, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+/* line 68, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
 .navbar-brand {
   padding: 0 10px;
   font-size: 30px;
   line-height: 30px;
   font-weight: normal;
   color: #fff; }
-  /* line 76, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+  /* line 74, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
   .navbar-brand img {
     display: inline; }
-  /* line 79, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
+  /* line 77, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_nav.css.scss */
   .navbar-brand span {
     font-size: 24px;
     font-weight: 300; }
 
-/* line 1, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 1, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #skills {
   background-color: #fff; }
 
-/* line 5, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 5, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .skills-bars {
   position: relative;
   margin-top: 20px;
@@ -10209,7 +10207,7 @@ html[xmlns] .slides {
   opacity: 0;
   transition: opacity .3s ease-out; }
 
-/* line 13, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 13, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .skills-item {
   position: absolute;
   width: 25%;
@@ -10218,27 +10216,27 @@ html[xmlns] .slides {
   border-right: 3px solid #fff;
   transition: height 1.2s ease-in-out; }
 
-/* line 22, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 22, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .skill1 {
   left: 0;
   background: #F28C83; }
 
-/* line 27, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 27, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .skill2 {
   left: 25%;
   background: #509B9E; }
 
-/* line 32, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 32, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .skill3 {
   left: 50%;
   background: #334959; }
 
-/* line 37, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 37, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .skill4 {
   left: 75%;
   background: #B2C7C8; }
 
-/* line 42, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 42, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .percent {
   position: absolute;
   display: block;
@@ -10247,7 +10245,7 @@ html[xmlns] .slides {
   font-size: 48px;
   text-align: center; }
 
-/* line 51, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 51, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .skills-item p {
   position: absolute;
   width: 100%;
@@ -10257,18 +10255,18 @@ html[xmlns] .slides {
 /*-----------------------
 --- Portfolio Styles ----
 -------------------------*/
-/* line 62, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 62, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #portfolio {
   padding-top: 70px;
   background: url("../images/bg-portfolio.jpg") no-repeat fixed;
   background-size: cover;
   color: #fff; }
 
-/* line 69, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 69, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .touch #portfolio {
   background: #1F2C37; }
 
-/* line 73, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 73, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #filter-works ul {
   list-style: none;
   padding: 0;
@@ -10276,7 +10274,7 @@ html[xmlns] .slides {
   margin-bottom: 40px;
   text-align: center; }
 
-/* line 82, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 82, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #filter-works ul li {
   position: relative;
   display: inline-block;
@@ -10287,7 +10285,7 @@ html[xmlns] .slides {
   margin-left: 15px;
   margin-bottom: 10px; }
 
-/* line 93, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 93, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #filter-works ul li:after {
   display: block;
   content: '';
@@ -10299,11 +10297,11 @@ html[xmlns] .slides {
   border-radius: 50%;
   background: #fff; }
 
-/* line 105, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 105, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #filter-works ul li:last-child:after {
   display: none; }
 
-/* line 109, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 109, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #filter-works ul li a {
   display: block;
   font-size: 18px;
@@ -10315,7 +10313,7 @@ html[xmlns] .slides {
   -webkit-transition: all .2s ease-out;
   transition: all .2s ease-out; }
 
-/* line 121, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 121, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #filter-works ul li a,
 #filter-works ul li a:active,
 #filter-works ul li a:hover {
@@ -10324,23 +10322,23 @@ html[xmlns] .slides {
   color: #fff;
   text-decoration: none; }
 
-/* line 130, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 130, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #filter-works ul li.active a,
 #filter-works ul li:hover a {
   color: #509B9E; }
 
-/* line 135, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 135, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .masonry-wrapper {
   margin: 0 auto;
   padding: 0;
   overflow: hidden; }
 
-/* line 141, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 141, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #projects-container {
   margin: 0 auto;
   visibility: hidden; }
 
-/* line 146, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 146, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #projects-container .project-item {
   display: block;
   position: relative;
@@ -10357,7 +10355,7 @@ html[xmlns] .slides {
   z-index: 10;
   -webkit-backface-visibility: hidden; }
 
-/* line 163, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 163, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #projects-container .project-item.filtered {
   -webkit-transform: scale(0);
   -moz-transform: scale(0);
@@ -10368,11 +10366,11 @@ html[xmlns] .slides {
   z-index: 0;
   -webkit-backface-visibility: hidden; }
 
-/* line 174, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 174, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .project-item:hover {
   cursor: pointer; }
 
-/* line 178, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 178, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .project-item img {
   -webkit-transform: scale(1);
   transform: scale(1);
@@ -10380,14 +10378,14 @@ html[xmlns] .slides {
   transition: none;
   -webkit-backface-visibility: hidden; }
 
-/* line 186, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 186, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .project-item:hover img {
   -webkit-transform: scale(1.6);
   transform: scale(1.6);
   -webkit-transition: -webkit-transform 4s ease-in;
   transition: transform 4s linear; }
 
-/* line 194, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 194, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .project-item .hover-mask {
   position: absolute;
   padding: 0;
@@ -10401,12 +10399,12 @@ html[xmlns] .slides {
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out; }
 
-/* line 208, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 208, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .project-item:hover .hover-mask {
   opacity: .95;
   filter: alpha(opacity=95); }
 
-/* line 213, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 213, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .project-item .hover-mask .project-title {
   color: #fff;
   margin: 90px 0 0;
@@ -10421,13 +10419,13 @@ html[xmlns] .slides {
   -webkit-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out; }
 
-/* line 228, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 228, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .project-item:hover .hover-mask .project-title {
   -webkit-transform: translateY(0);
   transform: translateY(0);
   opacity: 1; }
 
-/* line 234, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 234, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .project-item .hover-mask p {
   margin: 0;
   font-size: 16px;
@@ -10441,7 +10439,7 @@ html[xmlns] .slides {
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s; }
 
-/* line 248, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 248, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .project-item:hover .hover-mask p {
   -webkit-transform: translateY(0);
   transform: translateY(0);
@@ -10449,7 +10447,7 @@ html[xmlns] .slides {
   -webkit-transition: all 0.3s ease-out .2s;
   transition: all 0.3s ease-out .2s; }
 
-/* line 256, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 256, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .masonry,
 .masonry .masonry-brick {
   -webkit-transition-duration: 0.4s;
@@ -10459,7 +10457,7 @@ html[xmlns] .slides {
   transition-duration: 0.4s;
   transition-timing-function: ease-in-out; }
 
-/* line 267, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 267, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .masonry {
   -webkit-transition-property: height, width;
   -moz-transition-property: height, width;
@@ -10467,7 +10465,7 @@ html[xmlns] .slides {
   -o-transition-property: height, width;
   transition-property: height, width; }
 
-/* line 275, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 275, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .masonry .masonry-brick {
   -webkit-transition-property: left, right, top, -webkit-transform, opacity;
   -moz-transition-property: left, right, top, -moz-transform, opacity;
@@ -10478,7 +10476,7 @@ html[xmlns] .slides {
 /*----------------------------
 ----Project Preview Styles----
 -----------------------------*/
-/* line 287, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 287, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #project-preview {
   display: none;
   position: relative;
@@ -10489,22 +10487,22 @@ html[xmlns] .slides {
   letter-spacing: 0.02em;
   overflow: visible !important; }
 
-/* line 298, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 298, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .touch #project-preview {
   opacity: 1 !important; }
 
-/* line 302, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 302, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #project-title {
   margin: 60px 0 30px;
   text-transform: uppercase;
   letter-spacing: 0.02em;
   word-spacing: 0.15em; }
 
-/* line 309, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 309, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #project-preview p {
   margin-bottom: 20px; }
 
-/* line 313, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 313, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .close-preview {
   position: absolute;
   padding: 0 5px;
@@ -10514,11 +10512,11 @@ html[xmlns] .slides {
   line-height: 44px;
   cursor: pointer; }
 
-/* line 323, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 323, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #project-slider {
   min-height: 450px; }
 
-/* line 327, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 327, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #project-slider.flexslider {
   margin: 0 0 20px;
   padding: 0;
@@ -10532,25 +10530,25 @@ html[xmlns] .slides {
   -ms-user-select: none;
   user-select: none; }
 
-/* line 341, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 341, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #project-slider .flex-direction-nav {
   display: none; }
 
-/* line 345, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 345, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #project-slider .flex-control-nav {
   width: 100%;
   position: absolute;
   bottom: -45px;
   text-align: center; }
 
-/* line 346, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 346, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #project-slider .flex-control-nav li {
   margin: 0 6px;
   display: inline-block;
   zoom: 1;
   *display: inline; }
 
-/* line 347, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 347, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #project-slider .flex-control-paging li a {
   padding: 0px;
   width: 16px;
@@ -10569,12 +10567,12 @@ html[xmlns] .slides {
   -webkit-transition: background .2s ease-out;
   transition: background .2s ease-out; }
 
-/* line 348, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 348, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #project-slider .flex-control-paging li a:hover {
   background: #fff;
   background: rgba(255, 255, 255, 0.6); }
 
-/* line 349, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 349, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #project-slider .flex-control-paging li a.flex-active {
   background: #509B9E;
   cursor: default; }
@@ -10582,35 +10580,35 @@ html[xmlns] .slides {
 /*----------------------
 -----Twitter Styles-----
 ------------------------*/
-/* line 355, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 355, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter {
   color: #fff;
   background-image: url("../images/bg-twitter.png");
   background-repeat: no-repeat;
   background-position: -30px -20px; }
 
-/* line 362, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 362, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter a:hover,
 #twitter a:active,
 #twitter a:focus {
   text-decoration: none; }
 
-/* line 368, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 368, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter a {
   color: #334959;
   text-decoration: none;
   transition: color .2s ease-out; }
 
-/* line 374, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 374, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter a:hover,
 #twitter a:focus {
   color: #fff; }
 
-/* line 379, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 379, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter h1 {
   position: relative; }
 
-/* line 383, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 383, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter .tweet {
   font-size: 24px;
   line-height: 36px;
@@ -10618,14 +10616,14 @@ html[xmlns] .slides {
   word-spacing: 5px;
   margin-bottom: 40px; }
 
-/* line 391, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 391, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter .timePosted {
   display: inline-block;
   font-size: 16px;
   font-weight: 300;
   margin-bottom: 20px; }
 
-/* line 398, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 398, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter .interact {
   margin-left: 20px;
   padding-right: 80px;
@@ -10633,25 +10631,25 @@ html[xmlns] .slides {
   font-size: 21px;
   font-weight: 300; }
 
-/* line 406, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 406, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter .interact a {
   margin-right: 6px; }
 
-/* line 410, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 410, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter .interact a:hover {
   color: #fff;
   transition: color .2s ease-out; }
 
-/* line 415, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 415, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter .twitter-icon {
   padding-top: 6px;
   text-align: center; }
 
-/* line 420, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 420, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter .fa-twitter {
   font-size: 60px; }
 
-/* line 424, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 424, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter-slider {
   border: none;
   box-shadow: none;
@@ -10659,18 +10657,18 @@ html[xmlns] .slides {
   margin: 0;
   padding: 0; }
 
-/* line 432, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 432, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter-slider .flex-direction-nav {
   display: block;
   position: absolute;
   bottom: 10px;
   right: 0; }
 
-/* line 439, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 439, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter-slider .flex-direction-nav li {
   display: inline; }
 
-/* line 443, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 443, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter .flex-direction-nav .flex-prev,
 #twitter .flex-direction-nav .flex-next {
   background: transparent;
@@ -10692,11 +10690,11 @@ html[xmlns] .slides {
   -webkit-transition: opacity .2s ease-out;
   transition: opacity .2s ease-out; }
 
-/* line 465, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 465, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter-slider .flex-direction-nav a:hover {
   opacity: 1; }
 
-/* line 469, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 469, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #twitter-slider .flex-direction-nav a:hover,
 #twitter-slider .flex-direction-nav a:active,
 #twitter-slider .flex-direction-nav a:focus {
@@ -10705,14 +10703,14 @@ html[xmlns] .slides {
 /*----------------------
 ----- Contact Styles ----
 ------------------------*/
-/* line 479, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 479, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact {
   background-image: url("../images/bg-contact.png");
   background-repeat: no-repeat;
   background-position: 0 100%;
   background-color: #fff; }
 
-/* line 486, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 486, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact-form .form-group label {
   display: none;
   font-size: 18px;
@@ -10720,18 +10718,18 @@ html[xmlns] .slides {
   font-weight: 100;
   text-transform: uppercase; }
 
-/* line 494, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 494, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact-form.no-placeholder .form-group label {
   display: block; }
 
-/* line 498, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 498, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact-form .controls {
   padding: 0;
   margin-bottom: 30px;
   border: 1px solid #ddd;
   border-radius: 2px; }
 
-/* line 505, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 505, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact-form .form-control {
   background: transparent !important;
   border: none;
@@ -10748,11 +10746,11 @@ html[xmlns] .slides {
   transition: border-color .3s ease-out;
   border-radius: 2px; }
 
-/* line 522, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 522, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact-form .form-group {
   position: relative; }
 
-/* line 526, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 526, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact-form .form-group [class*=fa] {
   display: block;
   width: 64px;
@@ -10767,15 +10765,15 @@ html[xmlns] .slides {
   opacity: 0.5;
   transition: opacity .2s ease-out; }
 
-/* line 541, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 541, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact-form.no-placeholder .form-group [class*=fa] {
   top: 30px; }
 
-/* line 545, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 545, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact-form .form-control:focus + [class*=fa] {
   opacity: 1; }
 
-/* line 549, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 549, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact-form textarea.form-control {
   height: auto;
   max-width: 100%;
@@ -10784,7 +10782,7 @@ html[xmlns] .slides {
   line-height: 32px;
   padding-top: 10px; }
 
-/* line 558, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 558, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact-form .form-control:focus {
   background: #fff;
   border-bottom: 3px solid #F28C83;
@@ -10793,7 +10791,7 @@ html[xmlns] .slides {
   -webkit-transition: border-color .3s ease-in;
   transition: border-color .3s ease-in; }
 
-/* line 567, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 567, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact-form .error-message {
   padding: 5px 0;
   position: absolute;
@@ -10804,7 +10802,7 @@ html[xmlns] .slides {
   color: #ff0000;
   z-index: 10; }
 
-/* line 578, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 578, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #contact-form .error-message:before {
   content: "\00d7";
   font-size: 21px;
@@ -10814,49 +10812,43 @@ html[xmlns] .slides {
 /*-------------------
 ---- GMap Styles ----
 ---------------------*/
-/* line 589, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 589, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #gmap {
   display: block;
   width: 100%;
   height: 500px;
   margin: 0 auto; }
 
-/* line 596, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 596, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #gmap .infowin {
   padding: 10px 20px; }
 
-/* line 600, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 600, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #gmap .infowin p {
   margin-bottom: 10px;
   font-family: Raleway, Arial, sans-serif;
   font-size: 16px;
   line-height: 24px; }
 
-/* line 607, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 607, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #gmap .infowin a {
   color: #F28C83; }
 
-/* line 611, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 611, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 #gmap .infowin a:hover {
   text-decoration: underline; }
 
 /*----------------------
 ----- Footer Styles ----
 ------------------------*/
-/* line 619, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
-#main-footer {
-  padding-top: 50px;
-  padding-bottom: 40px;
-  background: #1f2c37; }
-
-/* line 625, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 618, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .social-links {
   list-style: none;
   margin: 0;
   padding: 0;
   margin-bottom: 30px; }
 
-/* line 632, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 625, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .social-links li {
   display: inline-block;
   margin: 0 5px;
@@ -10865,7 +10857,7 @@ html[xmlns] .slides {
   -webkit-transition: all .3s ease-out;
   transition: all .3s ease-out; }
 
-/* line 641, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 634, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .social-links li a {
   display: block;
   color: #fff;
@@ -10880,7 +10872,7 @@ html[xmlns] .slides {
   -webkit-transition: all .3s ease-out;
   transition: all .3s ease-out; }
 
-/* line 656, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 649, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .social-links li a:hover {
   color: #fff;
   background: #509B9E; }
@@ -10888,17 +10880,17 @@ html[xmlns] .slides {
 /*------------------------
 ---Scrolling animations---
 -------------------------*/
-/* line 665, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 658, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.fade-in {
   opacity: 0;
   -webkit-transition: opacity 0.6s ease-out;
   transition: opacity 0.6s ease-out; }
 
-/* line 671, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 664, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.fade-in.in {
   opacity: 1; }
 
-/* line 675, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 668, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.scale-in {
   opacity: 0;
   -webkit-transform: scale(0.5);
@@ -10908,7 +10900,7 @@ html[xmlns] .slides {
   -webkit-transition: -webkit-transform 0.6s cubic-bezier(0.17, 0.89, 0.67, 1.57), opacity 0.6s ease-out;
   transition: transform 0.6s cubic-bezier(0.17, 0.89, 0.67, 1.57), opacity 0.6s ease-out; }
 
-/* line 685, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 678, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.scale-in.in {
   opacity: 1;
   -webkit-transform: scale(1);
@@ -10916,7 +10908,7 @@ html[xmlns] .slides {
   -ms-transform: scale(1);
   transform: scale(1); }
 
-/* line 693, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 686, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.fade-right {
   opacity: 0;
   -webkit-transform: translateX(-100px);
@@ -10926,7 +10918,7 @@ html[xmlns] .slides {
   -webkit-transition: -webkit-transform .6s ease-out,opacity .6s ease-out;
   transition: transform .6s ease-out,opacity .6s ease-out; }
 
-/* line 703, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 696, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.fade-right.in {
   opacity: 1;
   -webkit-transform: translateX(0px);
@@ -10934,7 +10926,7 @@ html[xmlns] .slides {
   -ms-transform: translateX(0px);
   transform: translateX(0px); }
 
-/* line 711, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 704, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.fade-left {
   opacity: 0;
   -webkit-transform: translateX(100px);
@@ -10944,7 +10936,7 @@ html[xmlns] .slides {
   -webkit-transition: -webkit-transform .6s ease-out,opacity .6s ease-out;
   transition: transform .6s ease-out,opacity .6s ease-out; }
 
-/* line 721, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 714, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.fade-left.in {
   opacity: 1;
   -webkit-transform: translateX(0px);
@@ -10952,7 +10944,7 @@ html[xmlns] .slides {
   -ms-transform: translateX(0px);
   transform: translateX(0px); }
 
-/* line 729, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 722, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.fade-up {
   opacity: 0;
   -webkit-transform: translateY(100px);
@@ -10962,7 +10954,7 @@ html[xmlns] .slides {
   -webkit-transition: -webkit-transform .6s ease-out,opacity .6s ease-in;
   transition: transform .6s ease-out,opacity .6s ease-in-out; }
 
-/* line 739, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 732, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.fade-up.in {
   opacity: 1;
   -webkit-transform: translateY(0px);
@@ -10970,27 +10962,27 @@ html[xmlns] .slides {
   -ms-transform: translateY(0px);
   transform: translateY(0px); }
 
-/* line 747, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 740, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.d1 {
   transition-delay: .3s; }
 
-/* line 751, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 744, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.d2 {
   transition-delay: .6s; }
 
-/* line 755, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 748, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.d3 {
   transition-delay: .9s; }
 
-/* line 759, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 752, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .scrollimation.d4 {
   transition-delay: 1.2s; }
 
-/* line 763, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 756, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .touch .scrollimation.fade-in {
   opacity: 1; }
 
-/* line 767, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 760, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .touch .scrollimation.scale-in {
   opacity: 1;
   -webkit-transform: scale(1);
@@ -10998,7 +10990,7 @@ html[xmlns] .slides {
   -ms-transform: scale(1);
   transform: scale(1); }
 
-/* line 775, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 768, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .touch .scrollimation.fade-right {
   opacity: 1;
   -webkit-transform: translateX(0px);
@@ -11006,7 +10998,7 @@ html[xmlns] .slides {
   -ms-transform: translateX(0px);
   transform: translateX(0px); }
 
-/* line 783, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 776, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .touch .scrollimation.fade-left {
   opacity: 1;
   -webkit-transform: translateX(0px);
@@ -11014,7 +11006,7 @@ html[xmlns] .slides {
   -ms-transform: translateX(0px);
   transform: translateX(0px); }
 
-/* line 791, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 784, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .touch .scrollimation.fade-up {
   opacity: 1;
   -webkit-transform: translateY(0px);
@@ -11022,7 +11014,7 @@ html[xmlns] .slides {
   -ms-transform: translateY(0px);
   transform: translateY(0px); }
 
-/* line 799, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 792, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .skills-images img {
   margin-bottom: 20px; }
 
@@ -11030,94 +11022,94 @@ html[xmlns] .slides {
 ----- Media Queries ----
 ------------------------*/
 @media (max-width: 991px) {
-  /* line 809, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 802, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   .big-text {
     font-size: 48px;
     line-height: 52px;
     letter-spacing: 0.01em;
     word-spacing: 0.15em; }
 
-  /* line 816, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 809, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #main-nav .nav a,
   #main-nav .nav a:active,
   #main-nav .nav a:hover {
     font-size: 16px; }
 
-  /* line 822, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 815, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #main-nav li {
     margin: 0 5px; }
 
-  /* line 826, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 819, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   .percent {
     top: -60px;
     font-size: 42px; }
 
-  /* line 831, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 824, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #projects-container .project-item {
     width: 320px;
     margin-bottom: 20px; }
 
-  /* line 836, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 829, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   .project-item .hover-mask .project-title {
     margin-top: 75px; }
 
-  /* line 840, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 833, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #project-slider {
     min-height: 0; } }
 @media (max-width: 767px) {
-  /* line 847, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 840, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   body {
     font-size: 15px; }
 
-  /* line 851, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 844, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   .lead {
     font-size: 16px;
     font-weight: 400; }
 
-  /* line 856, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 849, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   .add-padding {
     padding-top: 60px;
     padding-bottom: 60px; }
 
-  /* line 861, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 854, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   .big-text {
     font-size: 38px;
     line-height: 42px; }
 
-  /* line 866, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 859, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   .section-title {
     margin-top: -20px;
     margin-bottom: 40px; }
 
-  /* line 871, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 864, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #main-nav {
     background: #fff;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.2); }
 
-  /* line 876, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 869, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #main-nav .navbar-toggle {
     margin-bottom: 5px;
     margin-top: 5px;
     color: #6d6d6d;
     border-color: transparent !important; }
 
-  /* line 883, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 876, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #main-nav .navbar-toggle .icon-bar {
     width: 28px;
     height: 4px;
     margin-top: 0;
     background: #6d6d6d !important; }
 
-  /* line 890, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 883, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #main-nav .navbar-toggle .icon-bar + .icon-bar {
     margin-top: 4px; }
 
-  /* line 894, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 887, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #main-nav .container,
   #main-nav.scrolled .container {
     padding: 5px 20px; }
 
-  /* line 899, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 892, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #main-nav .nav a,
   #main-nav .nav a:active,
   #main-nav .nav a:hover {
@@ -11125,43 +11117,43 @@ html[xmlns] .slides {
     text-align: center;
     color: #6d6d6d; }
 
-  /* line 907, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 900, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #main-nav .nav li.active a,
   #main-nav .nav a:hover {
     color: #F28C83; }
 
-  /* line 912, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 905, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #main-nav .navbar-brand {
     padding-top: 5px;
     font-size: 21px;
     color: #6d6d6d; }
 
-  /* line 918, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 911, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #main-nav .navbar-brand img {
     margin-right: 10px;
     max-width: 40px; }
 
-  /* line 923, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 916, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #home .container {
     margin-top: -80px; }
 
-  /* line 927, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 920, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #home p {
     font-size: 24px; }
 
-  /* line 931, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 924, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #home h1 {
     font-size: 42px; }
 
-  /* line 935, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 928, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #home h1 + p {
     font-size: 21px; }
 
-  /* line 939, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 932, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   .service-item {
     margin-bottom: 40px; }
 
-  /* line 943, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 936, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   .polaroid {
     border: 12px solid #fff;
     width: 90%;
@@ -11171,48 +11163,48 @@ html[xmlns] .slides {
     -webkit-transform: rotate(-5deg);
     transform: rotate(-5deg); }
 
-  /* line 953, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 946, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   .percent {
     top: -45px;
     font-size: 28px; }
 
-  /* line 958, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 951, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   .skills-item p {
     font-size: 14px; }
 
-  /* line 962, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 955, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #filter-works ul li a {
     display: block;
     font-size: 16px;
     height: 18px;
     padding: 10px 5px; }
 
-  /* line 969, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 962, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #project-title {
     font-size: 28px; }
 
-  /* line 973, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 966, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #twitter .tweet {
     font-size: 18px;
     line-height: 24px; }
 
-  /* line 978, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 971, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #contact-form {
     margin-top: 30px; }
 
-  /* line 982, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 975, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #gmap {
     height: 300px; } }
 @media (max-width: 479px) {
-  /* line 989, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 982, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   #projects-container .project-item {
     width: 300px;
     margin-bottom: 15px; }
 
-  /* line 994, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+  /* line 987, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
   .project-item .hover-mask .project-title {
     margin-top: 70px; } }
-/* line 999, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css */
+/* line 992, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/styles.css.scss */
 .texts-pre {
   margin-bottom: 60px; }
 
@@ -11250,16 +11242,17 @@ html[xmlns] .slides {
   /* line 11, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_home_start.css.scss */
   #home h1 {
     margin: 0;
-    font-size: 82px;
+    font-size: 70px;
     font-weight: 600;
     text-transform: uppercase; }
   /* line 17, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_home_start.css.scss */
   #home p {
     margin: 0;
-    font-size: 32px;
-    font-weight: 300; }
+    line-height: 40px;
+    font-size: 30px;
+    font-weight: 400; }
 
-/* line 24, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_home_start.css.scss */
+/* line 25, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_home_start.css.scss */
 .backstretch img {
   -webkit-transform: scale(1.2);
   transform: scale(1.2); }
@@ -11269,6 +11262,42 @@ html[xmlns] .slides {
   background-color: #fff;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.5); }
   /* line 5, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+  #services .service-item h3.service-title {
+    margin-bottom: 30px;
+    text-align: center; }
+  /* line 10, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+  #services p.sub-note {
+    text-align: right; }
+  /* line 16, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+  #services .service-menu .menu-item-line span.price {
+    font-weight: normal;
+    font-size: .9em;
+    float: right; }
+  /* line 22, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+  #services .service-menu .menu-item {
+    text-align: left; }
+    /* line 24, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+    #services .service-menu .menu-item h3 {
+      font-size: 1em;
+      font-weight: bold; }
+    /* line 28, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+    #services .service-menu .menu-item p {
+      line-height: 22px; }
+    /* line 31, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+    #services .service-menu .menu-item p.meta {
+      font-size: .9em;
+      text-transform: italic;
+      margin-bottom: 8px; }
+      /* line 34, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+      #services .service-menu .menu-item p.meta span.price {
+        float: right; }
+      /* line 36, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+      #services .service-menu .menu-item p.meta i.fa {
+        margin-right: 5px; }
+    /* line 38, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+    #services .service-menu .menu-item p.description {
+      font-size: .9em; }
+  /* line 44, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
   #services .service-icon {
     position: relative;
     display: block;
@@ -11283,22 +11312,22 @@ html[xmlns] .slides {
     color: #fff;
     -webkit-transition: all 0.2s ease-out;
     transition: all 0.2s ease-out; }
-    /* line 6, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+    /* line 45, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
     #services .service-icon.service-a {
-      background-image: url(../images/service-a.jpg);
+      background-image: url(../images/service-c.jpg);
       background-size: cover;
       background-repeat: no-repeat; }
-    /* line 11, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+    /* line 50, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
     #services .service-icon.service-b {
       background-image: url(../images/service-b.jpg);
       background-size: cover;
       background-repeat: no-repeat; }
-    /* line 16, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+    /* line 55, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
     #services .service-icon.service-c {
-      background-image: url(../images/service-c.jpg);
+      background-image: url(../images/service-a.jpg);
       background-size: cover;
       background-repeat: no-repeat; }
-    /* line 34, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+    /* line 73, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
     #services .service-icon:after {
       pointer-events: none;
       content: "";
@@ -11312,34 +11341,26 @@ html[xmlns] .slides {
       border-radius: 50%;
       -webkit-transition: all 0.2s ease-out;
       transition: all 0.2s ease-out; }
-  /* line 50, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+  /* line 89, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
   #services .no-csstransforms .service-icon:after {
     display: none; }
-  /* line 54, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+  /* line 93, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
   #services .service-icon:focus,
   #services .service-icon:active {
     color: #fff; }
-  /* line 59, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+  /* line 98, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
   #services .service-icon [class*=fa] {
     -webkit-transform: scale(1);
     transform: rotate(0);
     -webkit-transition: all 0.3s ease-out;
     transition: none; }
 
-/* line 67, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+/* line 106, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
 #services {
   background-color: #fff;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.5); }
 
-/* line 72, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
-.service-item {
-  text-align: center; }
-
-/* line 76, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
-.service-item h3 {
-  margin-bottom: 15px; }
-
-/* line 80, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+/* line 111, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
 .service-icon {
   position: relative;
   display: block;
@@ -11355,7 +11376,7 @@ html[xmlns] .slides {
   -webkit-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out; }
 
-/* line 96, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+/* line 127, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
 .service-icon:after {
   pointer-events: none;
   content: "";
@@ -11370,46 +11391,40 @@ html[xmlns] .slides {
   -webkit-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out; }
 
-/* line 111, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+/* line 142, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
 .no-csstransforms .service-icon:after {
   display: none; }
 
-/* line 115, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+/* line 146, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
 .service-icon:focus,
 .service-icon:active {
   color: #fff; }
 
-/* line 120, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+/* line 151, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
 .service-icon [class*=fa] {
   -webkit-transform: scale(1);
   transform: rotate(0);
   -webkit-transition: all 0.3s ease-out;
   transition: none; }
 
-/* line 127, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
+/* line 158, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
 .service-item:hover [class*=fa] {
   -webkit-transform: scale(1.3);
   transform: rotate(360deg);
   -webkit-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out; }
 
-/* line 134, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/_services.css.scss */
-.service-item p {
-  margin: auto;
-  max-width: 250px; }
-
-/* line 20, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/application.css.scss */
+/* line 21, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/application.css.scss */
 body {
-  font-family: "Roboto", "Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
+  font-family: "Lato", "Roboto", "Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 400;
   color: #6d6d6d;
   overflow-x: hidden; }
 
-/* line 28, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/application.css.scss */
+/* line 29, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/application.css.scss */
 .page-section {
-  padding-top: 120px;
-  padding-bottom: 140px; }
+  padding: 100px 0; }
 
 /* line 33, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/application.css.scss */
 .section-title {
@@ -11420,7 +11435,7 @@ body {
 /* line 39, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/application.css.scss */
 .page-section-reverse {
   color: #fff;
-  background: #F28C83; }
+  background: #32cd32; }
 
 /* line 44, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/application.css.scss */
 a {
@@ -11471,3 +11486,25 @@ p.sub-note {
   box-shadow: 3px 5px 8px rgba(0, 0, 0, 0.5);
   -webkit-transform: rotate(-5deg);
   transform: rotate(-5deg); }
+
+/* line 96, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/application.css.scss */
+#about h1.title {
+  margin-top: 0;
+  margin-bottom: 30px; }
+
+/* line 101, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/application.css.scss */
+#accup h1.title {
+  margin-top: 0;
+  margin-bottom: 30px; }
+
+/* line 106, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/application.css.scss */
+#main-footer {
+  height: 50px;
+  font-size: .9em;
+  background: #28a428;
+  color: #e9e9e9; }
+  /* line 111, /Users/he9lin/Projects/mobile-sites/dj-beauty-x/source/assets/stylesheets/application.css.scss */
+  #main-footer p {
+    margin: 0;
+    line-height: 50px;
+    text-align: center; }

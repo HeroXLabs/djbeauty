@@ -2714,7 +2714,7 @@ window.MapLoader = function() {
   function setup(eId) {
     if ($('#' + eId).length) {
       var map;
-      var mapstyles   = [ { "stylers": [ { "saturation": -100 } ] } ];
+      var mapstyles   = [ { stylers: [ { hue: "#32cd32" } ] } ];
       var infoWindow  = new google.maps.InfoWindow;
       var pointLatLng = new google.maps.LatLng(mapPoint.lat, mapPoint.lng);
 
