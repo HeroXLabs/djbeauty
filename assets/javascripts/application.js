@@ -2637,7 +2637,7 @@ $(document).ready(function() {
 window.HomeStart = function($) {
   var $homeStartEle = $('.x-home-start');
   var $mainNavEle   = $('.x-main-nav');
-  var bgAssetPath   = 'assets/images/bg2.jpg';
+  var bgAssetPath   = 'assets/images/home.jpg';
   var homeStartHeight = $(window).height() + 50;
 
   function mainNavScroll() {
